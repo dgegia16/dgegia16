@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on **Blue Light Services Georgia**
+- 🔭 I’m currently working on **BLS Georgia**
 
 - 🌱 I’m currently learning **Node.js, React, React Native**
 
-- 💬 Ask me about **javascript, react, react native**
+- 💬 Ask me about **javascript, React, React Native**
 
 - 📫 How to reach me **dgegia16@gmail.com**
 
