@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm David Gegia</h1>
-<h3 align="center">Young Self taught Full-Stack Web Developer</h3>
+<h3 align="center">Young Self taught Back-end Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 My most successful project [Website for BLS Georgia](https://dgegia16.github.io/BLS_Georgia-Project/)
 
 - 🌱 I’m currently learning **Node.js, React, React Native, IOS Development**
 
-- 💬 Ask me about **JavaScript, React, React Native**
+- 💬 Ask me about **JavaScript, Node.js React, React Native**
 
 - 📫 How to reach me **dgegia16@gmail.com**
 
