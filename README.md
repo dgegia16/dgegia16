@@ -2,7 +2,7 @@
 <h3 align="center">Young Self taught Back-end Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 My most successful project [Website for BLS Georgia](https://dgegia16.github.io/BLS_Georgia-Project/)
+- 🔭 My most successful project [Website for BLS Georgia](https://blsgeorgia.com/index.html)
 
 - 🌱 I’m currently learning **Node.js, React, React Native, IOS Development**
 
