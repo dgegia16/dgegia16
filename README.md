@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, React Native, IOS Development**
 
-- 💬 Ask me about **JavaScript, Node.js React, React Native**
+- 💬 Ask me about **JavaScript, Node.js, React, React Native**
 
 - 📫 How to reach me **dgegia16@gmail.com**
 
